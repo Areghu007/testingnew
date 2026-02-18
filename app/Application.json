@@ -1,0 +1,20 @@
+{
+  "applicationId" : "0aa09f32-feae-449c-9d86-ca1afb492512",
+  "applicationName" : "Page Clean Up",
+  "sections" : [ {
+    "name" : "Quota Bottom Up",
+    "icon" : "Blocks",
+    "pageDefinitionId" : "26a1ad98-d635-42de-95e0-b3a1ac62865a",
+    "description" : "",
+    "sections" : [ ],
+    "accessRoles" : null,
+    "privileges" : null,
+    "isReferredPage" : false
+  } ],
+  "accessRoles" : [ ],
+  "tagIds" : [ ],
+  "applicationState" : "DRAFT",
+  "gitUrl" : "github.com/Areghu007/testingnew",
+  "defaultBranch" : "Initial",
+  "applicationI18nFiles" : [ ]
+}
